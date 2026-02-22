@@ -201,6 +201,8 @@ SMTP_PASSWORD: xxxxxxxx
 | `OKX_API_SECRET` | OKX Secret Key | 仅自动交易时必填 |
 | `OKX_API_PASSPHRASE` | OKX Passphrase | 仅自动交易时必填 |
 
+#不填写交易所api无法获取最新k线数据#
+
 ---
 
 ### 第五步：配置定投策略
