@@ -1,4 +1,5 @@
 # AHR999 Optimized自动化定投系统 (Open Source)
+##使用前请参考ahr999_backtest.html文件回测收益率对比。本指标仅做学习用途不提供任何投资建议。
 
 基于 AHR999 指标和幂律法则的自动化加密货币定投工具。支持 OKX 交易所，可部署在 GitHub Actions 或本地服务器。
 
